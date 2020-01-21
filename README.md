@@ -1,1 +1,2 @@
-# 1
+# PlaneDiscordBOT
+ A discord bot
